@@ -1,4 +1,27 @@
-# python, numpy, pandas, matplotlib, seaborn, javascript, html, css, java, c#
+# python, numpy, pandas, matplotlib, seaborn, javascript, html, css, java, c#, 
+
+Skill Set
+
+Language : Python, java, c#, 
+
+OS : Windows, Linux
+
+Framework+Library : Tensorflow, Keras, PyTorch
+
+Database : Oracle
+
+Development Tool : Colab, Jupyter Notebook, Vscode, sqldeveloper
+
+Data Preprocessing : Pandas, Numpy, BeautifulSoup, Selenium
+
+Data Analaysis : Scikit Learn, Scipy, Statmodels
+
+Data Visualization : Matplotlib, Seaborn, Tableau
+
+서비스 구현/배포: Flask, Django, Docker, AWS 
+
+협업 도구: Github
+
 데이터 모델 설계 > 수집 및 전처리 > 시각화 > 분석
 1. 파이썬으로 비트코인 가격 예측 모델 
 2. 각종 포털싸이트에서 댓글 크롤링 후 기업 마케팅 반영
