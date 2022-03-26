@@ -1,6 +1,6 @@
-# python, numpy, pandas, matplotlib, seaborn, javascript, html, css, java, c#, 
+# Skill Set #
 
-Skill Set
+
 
 Language : Python, java, c#, 
 
