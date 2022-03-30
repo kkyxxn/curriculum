@@ -24,7 +24,7 @@ Data Visualization : Matplotlib, Seaborn, Tableau
 
 
 # Project #
-1. Colab 비트코인 가격 예측 모델 
+1. 딥러닝 비트코인 가격 예측 모델 
 2. 각종 포털싸이트에서 댓글 크롤링 후 고객니즈 마케팅 반영
 3. 키움증권 API 연동 주식자동매매 프로그램
 4. 빅데이터 위치기반 여행 추천시스템
