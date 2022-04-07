@@ -27,4 +27,4 @@ Data Visualization : Matplotlib, Seaborn, Tableau
 2. 포털싸이트 사용자 감성 분석
 3. 키움증권 API 연동 주식자동매매 프로그램
 4. 빅데이터 위치기반 여행 추천시스템
-5. AI 뉴스
+5. AI 뉴스 분류 웹 페이지
