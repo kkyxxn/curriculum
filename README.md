@@ -1,3 +1,13 @@
+
+# 고용노동부 주관 K-Digital Training #
+중앙정보기술인재개발원 프로젝트기반 빅데이터 서비스 솔루션 개발 전문 과정 이수
+2021.12.28~ 2022.06.23 (120일/960시간)
+
+세부 내용 : https://www.choongang.co.kr/html/sub03_07_n.php
+
+수업 과정의 내용 업로드 및 복습용 자료
+
+
 # Skill Set #
 
 Language : Python, java, c#, jquery , javascript
@@ -19,12 +29,3 @@ Data Visualization : Matplotlib, Seaborn, Tableau
 서비스 구현/배포: Flask, Django, Docker, AWS 
 
 협업 도구: Github
-
-
-# Project #
-
-1. 딥러닝 비트코인 가격 예측 모델 
-2. 포털싸이트 사용자 감성 분석
-3. 키움증권 API 연동 주식자동매매 프로그램
-4. 빅데이터 위치기반 여행 추천시스템
-5. AI 뉴스 분류 웹 페이지
